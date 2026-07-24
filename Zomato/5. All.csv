@@ -1,7 +1,7 @@
 Status,Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 ,HARD,Maximum Spending After Buying Items,100.0,0.006129495315805379,https://leetcode.com/problems/maximum-spending-after-buying-items,"Array, Greedy, Sorting, Heap (Priority Queue), Matrix"
 ,HARD,Split the Array to Make Coprime Products,100.0,0.002903177703881541,https://leetcode.com/problems/split-the-array-to-make-coprime-products,"Array, Hash Table, Math, Number Theory"
-,MEDIUM,Bitwise OR of All Subsequence Sums,100.0,0.006413291500285225,https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums,"Array, Math, Bit Manipulation, Brainteaser, Prefix Sum"
+DONE,MEDIUM,Bitwise OR of All Subsequence Sums,100.0,0.006413291500285225,https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums,"Array, Math, Bit Manipulation, Brainteaser, Prefix Sum"
 ,HARD,Shortest Cycle in a Graph,100.0,0.0039846054686531645,https://leetcode.com/problems/shortest-cycle-in-a-graph,"Breadth-First Search, Graph Theory"
 ,HARD,Number of Ways to Divide a Long Corridor,100.0,0.005461050839267841,https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor,"Math, String, Dynamic Programming"
 ,MEDIUM,Count the Hidden Sequences,90.9,0.005673605511984168,https://leetcode.com/problems/count-the-hidden-sequences,"Array, Prefix Sum"
@@ -21,7 +21,7 @@ Status,Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 ,HARD,Rearrange String k Distance Apart,59.1,0.003995555412066034,https://leetcode.com/problems/rearrange-string-k-distance-apart,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
 ,HARD,The Skyline Problem,59.1,0.004549389332606863,https://leetcode.com/problems/the-skyline-problem,"Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set"
 ,MEDIUM,Permutations,59.1,0.008205099151319593,https://leetcode.com/problems/permutations,"Array, Backtracking"
-✅,EASY,Move Zeroes,59.1,0.006398874920858486,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+DONE,EASY,Move Zeroes,59.1,0.006398874920858486,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
 ,MEDIUM,Combination Sum,59.1,0.007670916436414326,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
 ,MEDIUM,Search a 2D Matrix II,59.1,0.005750220170917868,https://leetcode.com/problems/search-a-2d-matrix-ii,"Array, Binary Search, Divide and Conquer, Matrix"
 ,MEDIUM,Merge Intervals,59.1,0.005211659924033122,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
