@@ -1,5 +1,5 @@
 Status,Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-,HARD,Maximum Spending After Buying Items,100.0,0.006129495315805379,https://leetcode.com/problems/maximum-spending-after-buying-items,"Array, Greedy, Sorting, Heap (Priority Queue), Matrix"
+DONE,HARD,Maximum Spending After Buying Items,100.0,0.006129495315805379,https://leetcode.com/problems/maximum-spending-after-buying-items,"Array, Greedy, Sorting, Heap (Priority Queue), Matrix"
 ,HARD,Split the Array to Make Coprime Products,100.0,0.002903177703881541,https://leetcode.com/problems/split-the-array-to-make-coprime-products,"Array, Hash Table, Math, Number Theory"
 DONE,MEDIUM,Bitwise OR of All Subsequence Sums,100.0,0.006413291500285225,https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums,"Array, Math, Bit Manipulation, Brainteaser, Prefix Sum"
 ,HARD,Shortest Cycle in a Graph,100.0,0.0039846054686531645,https://leetcode.com/problems/shortest-cycle-in-a-graph,"Breadth-First Search, Graph Theory"
